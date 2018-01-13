@@ -876,119 +876,119 @@ And now you're done the fight
 
 (final shot as soon as you can see the eye)
 
-ORDER OF SHRINES: (after plateau):
-Ya Naga
-Bosh Kala
-Wahgo Katta
-Hila Rao
-Kaya Wan
-Sheh Rata
-Daka Tuss
-Ta'loh Naeg
-Shee Vaneer
-Shee Venath
-Ree Dahee
-Qukah Nata
-Shoda Sah
-Rota Ooh
-Kaam Ya'tak
-Katah Chuki
-Noya Neha
-Zalta Wa
-Sheem Dagoze
-Shae Loya
-Dunba Taag
-Shae Katha
-Mezza Lo
-Soh Kofi
-Tah Muhl
-Mo'a Keet
-Sah Dahaj
-Ze Kasho
-Dan Hesho
-Ke'nai Shakah
-Kah Mael
-Ritaag Zumzo
-Katosa Aug
-Tu Ka'loh
-Bareeda Naag
-Akh Va'quot
-Sha Warvo
-Maka Rah
-Voo Lota
-Lanno Kooh
-Maag No'rah
-Monya Toma
-Saas Ko'sah
-Toto Sah
-Ha Dahamar
-Dow Na'eg
-Tawa Jinn
-Yah Rin
-Muwo Jeem
-Myahm Agana
-Tahno O'ah
-Jitan Sa'mi
-Shai Yota
-Lanka Rokee
-Mogg Latan
-Toh Yahsa
-Dah Kaso
-Jee Noh
-Joloo Nah
-Kay Noh
-Dako Tah
-Daqo Chisay
-Sho Dantu
-Sasa Kai
-Kuh Takkar
-Keeha Yoog
-Tena Ko'sah
-Kah Okeo
-Mijah Rokee
-Raqa Zunzo
-Misae Suma
-Kema Kosassa
-Kema Zoos
-Tho Kayu
-Hawa Koth
-Korsh O'hu
-Dila Maag
-Suma Sahma
-Ishto Soh
-Shai Utoh
-Pumaag Nitae
-Ka'o Makagh
-Shoqa Tatone
-Korgu Chideh
-Kah Yah
-Chaas Qeta
-Rucco Maag
-Ne'ez Yohma
-Dagah Keek
-Tutsuwa Nima
-Zuna Kai
-Gorae Torr
-Namika Ozz
-Mirro Shaz
-Qua Raym
-Daqa Koh
-Shae Mo'sah
-Shora Hah
-Ketoh Wawai
-Kayra Mah
-Keo Ruug
-Maag Halan
-Daag Chokah
-Kuhn Sidajj
-Gee ha'rah
-Rin Oyaa
-Sha Gehma
-Qaza Tokki
-Goma Asaagh
-Shada Naw
-Mozo Shenno
-To Quomo
-Hia Miu
-Rok Uwog
-Rona Kachta
+### ORDER OF SHRINES: (after plateau):
+- Ya Naga
+- Bosh Kala
+- Wahgo Katta
+- Hila Rao
+- Kaya Wan
+- Sheh Rata
+- Daka Tuss
+- Ta'loh Naeg
+- Shee Vaneer
+- Shee Venath
+- Ree Dahee
+- Qukah Nata
+- Shoda Sah
+- Rota Ooh
+- Kaam Ya'tak
+- Katah Chuki
+- Noya Neha
+- Zalta Wa
+- Sheem Dagoze
+- Shae Loya
+- Dunba Taag
+- Shae Katha
+- Mezza Lo
+- Soh Kofi
+- Tah Muhl
+- Mo'a Keet
+- Sah Dahaj
+- Ze Kasho
+- Dan Hesho
+- Ke'nai Shakah
+- Kah Mael
+- Ritaag Zumzo
+- Katosa Aug
+- Tu Ka'loh
+- Bareeda Naag
+- Akh Va'quot
+- Sha Warvo
+- Maka Rah
+- Voo Lota
+- Lanno Kooh
+- Maag No'rah
+- Monya Toma
+- Saas Ko'sah
+- Toto Sah
+- Ha Dahamar
+- Dow Na'eg
+- Tawa Jinn
+- Yah Rin
+- Muwo Jeem
+- Myahm Agana
+- Tahno O'ah
+- Jitan Sa'mi
+- Shai Yota
+- Lanka Rokee
+- Mogg Latan
+- Toh Yahsa
+- Dah Kaso
+- Jee Noh
+- Joloo Nah
+- Kay Noh
+- Dako Tah
+- Daqo Chisay
+- Sho Dantu
+- Sasa Kai
+- Kuh Takkar
+- Keeha Yoog
+- Tena Ko'sah
+- Kah Okeo
+- Mijah Rokee
+- Raqa Zunzo
+- Misae Suma
+- Kema Kosassa
+- Kema Zoos
+- Tho Kayu
+- Hawa Koth
+- Korsh O'hu
+- Dila Maag
+- Suma Sahma
+- Ishto Soh
+- Shai Utoh
+- Pumaag Nitae
+- Ka'o Makagh
+- Shoqa Tatone
+- Korgu Chideh
+- Kah Yah
+- Chaas Qeta
+- Rucco Maag
+- Ne'ez Yohma
+- Dagah Keek
+- Tutsuwa Nima
+- Zuna Kai
+- Gorae Torr
+- Namika Ozz
+- Mirro Shaz
+- Qua Raym
+- Daqa Koh
+- Shae Mo'sah
+- Shora Hah
+- Ketoh Wawai
+- Kayra Mah
+- Keo Ruug
+- Maag Halan
+- Daag Chokah
+- Kuhn Sidajj
+- Gee ha'rah
+- Rin Oyaa
+- Sha Gehma
+- Qaza Tokki
+- Goma Asaagh
+- Shada Naw
+- Mozo Shenno
+- To Quomo
+- Hia Miu
+- Rok Uwog
+- Rona Kachta
