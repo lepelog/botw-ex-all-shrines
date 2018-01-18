@@ -770,11 +770,11 @@ warp to Kah Mael, campfire until morning, glide down to the ring, campfire until
 
 warp to shrine near Goron city (Shae Moh'sa): Build cheat machine to fly to daruk pillars, the fly north to the Mega Magmarok, kill it with daruks weapon
 
-108 KAMIA OMUNA SHRINE: TODO
+108 KAMIA OMUNA SHRINE: Bomb-arrow the targets with long range bow
 
 Warp to Vah Rudania, go through the rings, use one gale(2) and fly down to the shrine
 
-109 SHARO LUN SHRINE: TODO
+109 SHARO LUN SHRINE: run, grab moving thing, avoid flames, jump over the last flames and run to next moving thing, shoot guardian, jump glide to 2nd guardian platform, jump to next thing, cimb up fast, run to next thing, double cryonis to get up, another cryo to get chest with flameblade, jump to next moving thing, cryo your way up
 
 Warp to Travel Medallion
 
@@ -782,9 +782,9 @@ Left, into cave, talk to goron, run out and down the ramp, grab the rock sirloin
 
 110 KAYRA MAH: Take the left side of the middle path
 
-Run out of the cave, climb back hill, run to the lava lake, glide onto rocks, magnesis box in middle, gale(1) onto it, gale(0) to shrine after cutscene
+Wait until noon at cook place, run out of the cave, climb back hill, run to the lava lake, glide onto rocks, magnesis box in middle, gale(1) onto it, gale(0) to shrine after cutscene
 
-111 RINU HONIKA SHRINE: TODO
+111 RINU HONIKA SHRINE: run, spin through the flames, place bomb on ground, destroy cracked block with other bomb, magnesis block over bomb, slightly left, stasis, hit once, shield jump ontop of it, detonate bomb, unstasis, fly to end
 
 warp to naboris, west to korok puzzle, __photo guardian stalker__ rocklaunch to naboris pillars, climb snowy mountains
 grab snowball, cover the wall pedestal, enter shrine [16 PM]
@@ -798,7 +798,7 @@ enter at top left quadrant, bottom right, run left to shrine
 
 go left, south east, fight with the molduga, bomb, just use urbosa 3 times and revalis bow with a shock arrow, run to shrine
 
-114 KEIVA TALA: TODO
+114 KEIVA TALA: Grab big box with magnesis, bring to end of shrine, 4 hits with thunderspear, end
 
 Go a bit left, shield surf, glide to shrine
 
@@ -808,9 +808,15 @@ run forward to wooden boxes, destroy all but one, launch east to guardian lady, 
 
 116 SHOQA TATONE: Sword flurry, knight bow + shock arrow, more hits, throw sword, no chest
 
-Warp to Daqo Chisay, enter town with gerudo clothes, buy sandseal on the left side, go north to the rings and follow them to the shrine
+Warp to Daqo Chisay, enter town with gerudo clothes, buy sandseal on the right side, go north to the rings and follow them to the shrine
 
-117 TAKAMA SHIRI: TODO
+117 TAKAMA SHIRI: go left, shieldjump, move path for magnesis, move blocks a little bit forward to shieldjump to the right, go to place unter next gate, make electric path, shield jump bomb boost through it, make:
+```
+B   B
+ B B
+  B B
+```
+move down right block away from electric, go up, connect again, GG
 
 shieldsurf/run forward to the next shrine
 
@@ -828,7 +834,7 @@ Get fairies if you're bad
 
 Warp to Kuh Takkar, shieldsurf down to the yigas, enter climb left wall, run and climb the ladder and run to the orb, take it, stasis + 3 hits to the exit of the hideout, run there quickly before the yigas notice, at the exit stasis + 3 hits into the hole, run to shrine
 
-121 KIHIRO MOH: TODO
+121 KIHIRO MOH: combination 1224
 
 Warp to Bareeda Naag, tree carry up the hill to the medoh pillars, run north east to trees, launch right of stable, call horse, campfire to morning, ride up hill, glide to the other side of the gorge,
 call horse, shoot dragon with long range bow at the horn (but no need to get it), ride to shrine
