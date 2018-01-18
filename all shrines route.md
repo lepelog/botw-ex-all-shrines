@@ -680,7 +680,7 @@ run northwest, glide to and climb wall
 
 90 NAMIKA OZZ: Sword flurry, shock, hits, no chest
 
-Climb right, glide down to stable, run around water to shrine
+Climb right, glide down to stable, __talk to Beedle for ancient arrow__ run around water to shrine
 
 91 MIRRO SHAZ: Longsword 5 hits (not red) on ball, a few hits on other thing
 
