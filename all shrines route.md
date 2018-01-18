@@ -102,9 +102,7 @@ Horse to left of mound, go to shrine and dodge the guardian
 13 DAKA TUSS: Bomb strat, ragdoll reset, damage boost dive
 
 Horse south to the last tree, tree carry launch, climb wall (use 1 stamina food), get sledgehammer
-Climb gate thingy on left, wait for stamina, climb wall (use 1 stamina food), Ta'loh Naeg
-
-14 TA'LOH NAEG: Right chest, use wood axe in fights and be bored until tutorials finish, get chest
+Climb gate thingy on left, wait for stamina, climb wall (use 1 stamina food), activate Ta'loh Naeg but don't actually do it
 
 Glide to Impa's house, enter, talk again, etc..., exit, go slightly right and forwards, Goddess statue (3 stamina)
 Backwards, left to cooking pot, COOK: Lizard, Ancient Part, Frog x3 for 5:10 speed elixr, endura shroom
@@ -112,30 +110,34 @@ Left, enter shop, buy 9 carrots (back right), exit, right, climb wall (stop at i
 Left, glide to trees, cut two trees and get wood, launch off third tree towards mountain, haste potion on land, climb up to boulders
 glide to left hill, climb it, go forwards to end of hill, glide right, climb up (1 stamina food), run to Shee Vaneer
 
-15 SHEE VANEER:
+14 SHEE VANEER:
 
+```
  4  O
 O  5 
 3O   
   2O 
  O  1
+```
 
 Throw 1 up-left, 2 back-left, 3 right, 4 back-left, 5 up-right;
 
 Glide to Shee Venath
 
-16 SHEE VENATH:
+15 SHEE VENATH:
+```
  O  5
 4  O 
 O3   
   O2 
  1  O
+```
  
 Throw 1 up-right, 2 back-right, 3 left, 4 up-right, 5 back-left;
  
 Jump off to the right, enter Ree Dahee
 
-17 REE DAHEE: Bomb boost over the gap, do the other two normally but stasis the final switch down and get the Climbing Hat and equip it
+16 REE DAHEE: Bomb boost over the gap, do the other two normally but stasis the final switch down and get the Climbing Hat and equip it
 
 Warp to Shee Vaneer (the southern one), glide to boulders, boulder launch + arrow left of the mountains, land at the little cavern place with an unlit fire in it
 Grab torch, 2x endura, flint, run up the path, 2x radish, 1x herb, 1x truffle, bomb the electric keese
@@ -143,45 +145,45 @@ Eternal flame, farosh farming (9 horns)
 Glide left, climb second and third trees and get durians from them, cut first tree for 3 durians, go south southeast
 Equip sledgehammer, throw after half a second of fast lightnings and enter Qukah Nata:
 
-18 QUKAH NATA: (blessing) Get the chest (Rubber Pants)
+17 QUKAH NATA: (blessing) Get the chest (Rubber Pants)
 
 Go west, glide towards waterfall (dequip sledgehammer) enter Shoda Sah:
 
-19 SHODA SAH: Cryo, climb, go on railing, go forwards a bunch, cryo again, cryo boost bomb boost over the wall
+18 SHODA SAH: Cryo, climb, go on railing, go forwards a bunch, cryo again, cryo boost bomb boost over the wall
 
 Warp to cryo, chest launch to Rota Ooh
 
-20 ROTA OOH: left side of the giant rotating thing, shoot arrow at switch while sidewalking into it, shoot it again and hold left while it spins, finish the shrine
+19 ROTA OOH: left side of the giant rotating thing, shoot arrow at switch while sidewalking into it, shoot it again and hold left while it spins, finish the shrine
 
 Axe by fallen trees, COOK: (Endura x1)xAll, radish x2 + truffle + durian, (durian x4), (3x seed + carrot + shard)x9;
 Get horse, EQUIP ANCIENT SADDLE by the lady feeding the deamons, ride north to Gleeok Bridge, Kaam Yatak
 
-21 KAAM YA'TAK: Use speed food, Bomb boost, shoot rope (pick up arrow), Edge of Duality chest, up stairs to big door, throw axe, magnesis it into the door
+20 KAAM YA'TAK: Use speed food, Bomb boost, shoot rope (pick up arrow), Edge of Duality chest, up stairs to big door, throw axe, magnesis it into the door
 
 East, magnesis chest at very right of ruins by a decaying guardian (Phantom Pants)
 Go towards Hyrule Castle to some very big flags, Big Radish
 magnesis chest in the water (Phantom Shirt)
 Horse, west, dodge the guardians and get to Katah Chuki
 
-22 KATAH CHUKI: Use Guardian Sword, don't get spear, don't get chest
+21 KATAH CHUKI: Use Guardian Sword, don't get spear, don't get chest
 
 Horse, west, cross the river, left side of brambles, throw bomb at wall, glide from above
 
-23 NOYA NEHA: Throw sword at it, Edge of Duality spins, get axe and chest
+22 NOYA NEHA: Throw sword at it, Edge of Duality spins, get axe and chest
 
 Use one iron box to get out, launch with other box to Zalta Wa, whistle for the horse
 
-24 ZALTA WA: Run forwards, swing at switch, paraglider at peak of boost, hold up, finish the shrine
+23 ZALTA WA: Run forwards, swing at switch, paraglider at peak of boost, hold up, finish the shrine
 
 Keep going west, after exiting the cave thingy go south to Sheem Dagoze puzzle
 Shoot arrow from far right (crouch, aim 1 cursor above the hole), take horse to shrine
 
-25 SHEEM DAGOZE: Bomb High Jump over the gate
+24 SHEEM DAGOZE: Bomb High Jump over the gate
 
 Ride northeast, then northwest towards the path, and towards Tabantha Stable
 Climb to Shae Loya
 
-26 SHAE LOYA: Freeze the ball, two arrows, unfreeze, shoot the high switch, beat the shrine
+25 SHAE LOYA: Freeze the ball, two arrows, unfreeze, shoot the high switch, beat the shrine
 
 Glide to behind stable, get wood from cart, wood from pile to the right, talk to Toren for money
 Beedle, BUY: 20 [all] arrow, 1 [all] arrow x10; get woodcutter's axe outside
@@ -193,65 +195,65 @@ Drop knight's shield, rainclimb, flameblade launch red ball to center
 Run to and climb to center, put balls in holes, go behind green ball, shoot two arrows at it
 Grab rusty claymore, unequip, put green ball in hole, shrine
 
-27 TOH YAHSA: Bomb squares, drop down, bomb hole in wall, put square bomb in behind metal block
+26 TOH YAHSA: Bomb squares, drop down, bomb hole in wall, put square bomb in behind metal block
 Chest, Climb small ledge, magenesis box onto bomb, jump onto it
 Stasis, 3x rusty claymore JS, bomb, unstasis, glide to exit
 
 Warp to Shee Vaneer
 Glide left to Farosh's Spring, dump a Farosh Scale in it
 
-28 SHAE KATHA: (blessing) Chest
+27 SHAE KATHA: (blessing) Chest
 
 Warp to Ta'loh Naeg, go right to fairy fountain, catch 3 fairies, endura carrots behind fairy, climb wall
 Run right, treelaunch northeast, get a stag from behind the trees and bring it to the platform
 
-29 MEZZA LO: Climb up ramp, throw square bomb, magnesis box on top of it, stasis it, 2 jumpslashes, detonate, unstasis it
+28 MEZZA LO: Climb up ramp, throw square bomb, magnesis box on top of it, stasis it, 2 jumpslashes, detonate, unstasis it
 
 Air tree launch right of the tower mountain, curve it slightly left after the mountain, Big Radish right of shrine.
 
-30 SOH KOFI: EoD spins, don't get its stuff, chest
+29 SOH KOFI: EoD spins, don't get its stuff, chest
 
 Run right then northeast, treelaunch w/ woodaxe north northeast
 
-31 TAH MUHL: The easiest shrine. Bomb the leaves, and jump on and off of the slope and you're done lol
+30 TAH MUHL: The easiest shrine. Bomb the leaves, and jump on and off of the slope and you're done lol
 
 Forwards, left onto the lower ledge, glide forwards then left (northeast), run up the grassy hill to Foothill Stable
 Right from stable, up a rock, enter shrine
 
-32 MO'A KEET: Run up the first ramp and stasis the ball as it comes out, unstasis it before you get to the top
+31 MO'A KEET: Run up the first ramp and stasis the ball as it comes out, unstasis it before you get to the top
 Stasis the ball as it falls out of the second ramp's hole, then run up
 
 Right, glide to right of the stable, cut down the tree facing north with woodaxe, throw it, get double axe from the left, then stasis and launch north with hammer
 
-33 SAH DAHAJ: Bomb the leaves, ignore the guardian, climb the ladder, bomb the leaves
+32 SAH DAHAJ: Bomb the leaves, ignore the guardian, climb the ladder, bomb the leaves
 Switch bombs, throw at caged wall in front of the boxes
 
 Run left, glide, climb the rocks going right (east), go over the ledge, call horse and enter Ze Kasho
 
-34 ZE KASHO: Apparatus down slightly, shieldjump onto floor, hit switch, run through laser maze
+33 ZE KASHO: Apparatus down slightly, shieldjump onto floor, hit switch, run through laser maze
 Apparatus down+left, bomb high jump over wall, climb the down and right walls and jump to the end
 
 Ride right, ragdoll reset, run along path until stone structure, big radish x2, keep climbing up to some trees at the top, launch east but right of the giant thing on the left, curve left after it, call horse there too
 
-35 DAN HESHO: More EoD spins, throw iron sledgehammer, get its axe, chest
+34 DAN HESHO: More EoD spins, throw iron sledgehammer, get its axe, chest
 
 Ride south and slightly east, `get two herbs from bushes before the path`, and dodge the fire arrow guys
 Hearty truffles at the trees, glide down, glide down again and break the rocks with a sledgehammer jumpslash
 
-36 KE'NAI SHAKAH: Guardian axe x2 spins (throw when they get damaged), thunderspear it if it begins to spin, finish with EoD if needed, loot weapons, chest
+35 KE'NAI SHAKAH: Guardian axe x2 spins (throw when they get damaged), thunderspear it if it begins to spin, finish with EoD if needed, loot weapons, chest
 
 Glide left, updraft up, get on the high ledge, herb, woodaxe treelaunch north northeast, do a few spins on the slab over the shrine
 
-37 KAH MAEL: shoot closer front rope, get on platform and shoot the farther one, glide to finish
+36 KAH MAEL: shoot closer front rope, get on platform and shoot the farther one, glide to finish
 
 Climb up, go left and back, run around until you get to trees, woodaxe launch off of rightmost tree to where the ball is
 Launch ball completely from shallow water, cryo chain across, go left to the path through the water and enter the shrine
 
-38 RITAAG ZUMZO: (blessing) chest
+37 RITAAG ZUMZO: (blessing) chest
 
 Go northwest, cryo chain to land, call horse and ride to Katosa Aug
 
-39 KATOSA AUG: Run+jump+glide off of platform apparatus is on, bomb boost to end
+38 KATOSA AUG: Run+jump+glide off of platform apparatus is on, bomb boost to end
 
 Take horse, follow path north and don't get guardian'd, go to north tree and launch north to labrynth
 Enter at front of back section, rightmost section of left half, glide to land on the right
@@ -259,7 +261,7 @@ Up stairs, fire arrow vines to the right, climb and get Great Flameblade (may ha
 also throw a sledgehammer
 Return, keep going right, get torch at shrine
 
-40 TU KA'LOH: (blessing) chest
+39 TU KA'LOH: (blessing) chest
 
 Fall down updraft, go forwards and get Travel Medallion, warp to Shae Loya
 
@@ -267,11 +269,11 @@ Double axe + sledgehammer treelaunch northwest, break leftmost rocks and loot ro
 Get to trees atop plateau, set fire and wait for noon
 Treelaunch northwest
 
-41 BAREEDA NAAG: Climb cannon, get on top of right 'horn' and run and jump and bomb boost
+40 BAREEDA NAAG: Climb cannon, get on top of right 'horn' and run and jump and bomb boost
 
 Left, arrow treelaunch carry to Akh Va'quot
 
-42 AKH VA'QUOT: Shoot at the right three, then the middle one, then 3-hit the left two with hammer
+41 AKH VA'QUOT: Shoot at the right three, then the middle one, then 3-hit the left two with hammer
 
 Run across bridge, go left and climb wall, talk to Elder
 talk to the bird to the right of elder [cutscene]
@@ -282,12 +284,12 @@ BUY: Snowhat; equip snowhat
 Go left 1 shop, BUY: All bom arrows, All arrows;
 Jump off right, double axe -> sledgehammer + axe treelaunch to Sha Warvo
 
-43 SHA WARVO: just keep gliding just keep gliding
+42 SHA WARVO: just keep gliding just keep gliding
 
 Run forwards, glide across flight range, small shield surf -> glide, fall down and enter gap, fall down,
 Go through water, enter shrine
 
-44 MAKA RAH: Aim slightly left and bomb arrow, shield surf jump over spikes, switch
+43 MAKA RAH: Aim slightly left and bomb arrow, shield surf jump over spikes, switch
 Left, cryo up to switch, second switch, get other chest (Bomb Arrow x10), run up the slant
 Immediately stasis or magnesis the spiky ball of death, run through
 
@@ -321,23 +323,23 @@ Chuck double axe, talk to purple bird
 Look towards city, blow, move two right after each blow
 Cutscene, drop korok leaf FROM INVENTORY, grab double axe, enter shrine
 
-45 VOO LOTA: Climb ladder, hit switch, glide to back right, chest for key, glide to center
+44 VOO LOTA: Climb ladder, hit switch, glide to back right, chest for key, glide to center
 
 Warp to Akh Va'quot, tree launch from behind to the east (freeze tree as it hits the ground), land at forest before slopes
 radish + shroom, tree launch carry northeast, glide to intermediate ledge, gale(1)
 Run east to water, gale(0), glide to island with dead tree, high tree launch carry northeast
 Go right around mound, swim in and eat extreme health bonus food, enter shrine
 
-46 LANNO KOOH: (blessing) chest
+45 LANNO KOOH: (blessing) chest
 
 Hit right skeleton w/ hammer, grab its sword, Vark strats or cryoswim to escape going right, shield surf towards tower
 Equip claymore, climb up to tree, launch south southeast, hammer JS shrine entrance
 
-47 MAAG NO'RAH: (blessing) chest
+46 MAAG NO'RAH: (blessing) chest
 
 Exit hole, drop down, call horse, ride to the total obvious shrine
 
-48 MONYA TOMA: Grab ball, go to the right side of the gate, face away from gate
+47 MONYA TOMA: Grab ball, go to the right side of the gate, face away from gate
 X, at peak of jump A then Y
 
 Run left to rocks, smash left front rock for luminous stone, run around to Hyrule Castle, small shield surf going east southeast,
@@ -346,57 +348,59 @@ At last set of trees tree launch, then tree launch into Hyrule Castle
 in the docks, throw claymore, get fireblade
 Run up stairs, fire arrow the big torch at the top, enter shrine
 
-49 SAAS KO'SAH: guardian axe+ spins, throw, shock arrow, guardian sword, shock arrow, throw sword when done
+48 SAAS KO'SAH: guardian axe+ spins, throw, shock arrow, guardian sword, shock arrow, throw sword when done
 sword++ and axe++, no chest
 
 run out of the docks, gale(2) up right, get dinraals scale, gale(1), gale(0), stasis + 3 hit thing above naydras scale away, get chest, launch left of korok forest, call horse and ride up hill to the trees around the korok, launch to the left side of the vulcano into korok forrest, put rusty shield in tree, throw chest to the other side in the water, cryo to the other side, put chest in mouth and enter the shrine
 
-50 KUHN SIDAJJ: (blessing) no chest
+49 KUHN SIDAJJ: (blessing) no chest
 
 run and void out, then run left to the lost pilgrimage, talk to korok, go right a bit, bomb arrow and forwards
 land, go through log on left, then right, then path to shrine I guess or try risky tree strat
 
-51 DAAG CHOKAH: (blessing) no chest
+50 DAAG CHOKAH: (blessing) no chest
 
 run and void out again, run to Keo Ruug and pick up the endura shrooms
 
-52 KEO RUUG: Left, first ball goes in back left, second goes in front middle, go around back, third goes to front left, fourth goes to back left middle or just do the bomb boost over it
+51 KEO RUUG: Left, first ball goes in back left, second goes in front middle, go around back, third goes to front left, fourth goes to back left middle or just do the bomb boost over it
 
+```
 XX OX
 XX XO
 XO XX
 XX XX
 OX XX
+```
 
 Left, climb rock, left at path, talk to quest korok
 Equip bomb arrows, go right around rock, bomb arrow the boxes, glide up
 Go slightly left, forwards, bomb arrow to updraft before swamp, glide to shrine
 
-53 MAAG HALAN: (blessing) no chest
+52 MAAG HALAN: (blessing) no chest
 
 Warp to Shee Vaneer glide back-right to boulders, launch right into gap where shrine is
 Hammer JS to enter shrine
 
-54 TOTO SAH: Apparatus down, next apparatus right and twist right, glide to midsection
+53 TOTO SAH: Apparatus down, next apparatus right and twist right, glide to midsection
 Bomb off right edge, explode it kinda fast i think idk, glide to end
 
 Falcon bow, bomb arrows, stasis
 Swim forwards across ledge, run to forwards left tree, flameblade 1+hammer treelaunch to shrine
 possibly cryo jump over brambles
 
-55 HA DAHAMAR: Cryo the right side of the water walls, mash stasis on hole opening
+54 HA DAHAMAR: Cryo the right side of the water walls, mash stasis on hole opening
 Shoot above+left of ball, release stasis, run to door
 
 Run to right of stable, fire until night
 Call horse, go north then right around the stable, aim left of the tower, go through the gate
 Approx. follow the path, go on left path, jump off horse and midair shoot th glowing head
 
-56 KAM UROG: Run and glide forwards, ride left thing up, stasis middle gear when nearly level, run to other side, climb gear up to top
+55 KAM UROG: Run and glide forwards, ride left thing up, stasis middle gear when nearly level, run to other side, climb gear up to top
 
 Left, climb wall, gale(2) from intermediate ledge, hammer rock for gems, climb up, gale(1) right, gale(0) up again
 Run forwards, climb, forwards, jump down and a bit left and glide into the hole, run left
 
-57 DOW NA'EG: Glide to huge switch, left cryo shield jump -> bomb boost
+56 DOW NA'EG: Glide to huge switch, left cryo shield jump -> bomb boost
 
 Warp to Kam Urog
 Horse forwards, then left, path, take the bridge of faith, path, right at the fork
@@ -405,20 +409,20 @@ Walk up the path, ball in hole, go right, EoD spins (it should now break)
 Ball, go back to hole and put it there
 Right, glide to ball, go back again, hole
 
-58 TAWA JINN: (blessing) chest
+57 TAWA JINN: (blessing) chest
 
 Right and back around shrine, glide left of middle kin, launch off of tree left of 3rd left bone south southeast with thunderblade to Yah Rin
 
-59 YAH RIN: Magnesis block on square bomb, stasis 3 hit explode forwards elevator launch, glide after a bit after the launch, run to the end
+58 YAH RIN: Magnesis block on square bomb, stasis 3 hit explode forwards elevator launch, glide after a bit after the launch, run to the end
 
 Left and back, carry east northeast from back tree
 Right, up green hill, call horse and ride to the shrine
 
-60 MUWO JEEM: guardian sword++, dodge first swing, 3 hits flurry, keep slashing it, throw sword to finish him, get shield and axe
+59 MUWO JEEM: guardian sword++, dodge first swing, 3 hits flurry, keep slashing it, throw sword to finish him, get shield and axe
 
 Thunderblade treelaunch east, aim slightly left of death mountain then left to rocks, gale x2(1), glide northeast, Hateno, shrine
 
-61 MYAHM AGANA: Apparatus flip and upside down puzzle solve
+60 MYAHM AGANA: Apparatus flip and upside down puzzle solve
 
 Go slightly right, forwards then right, cross river then gale(0) then aim towards flame, light torch
 Throw it across river, throw it up hills, just keep throwing it
@@ -426,25 +430,27 @@ Throw it at the furnace, talk to Purah, get slated, photo her, talk
 Exit, righ to tree, thunderblade + sledgehammer launch northeast, doublet + snowhat
 Keep running forwards, at the drop glide forwards then fall, hit rock and enter shrine
 
-62 TAHNO O'AH: (blessing) chest
+61 TAHNO O'AH: (blessing) chest
 
 Thunderblade tree carry left, let go at apex and glide left, run forwards and run up slant
 At descent, pass one tree then carry right from back of two trees
 Run and climb up the pillars until you get a cutscene
 Throw scale in water, enter shrine
 
-63 JITAN SA'MI: (blessing) no chest
+62 JITAN SA'MI: (blessing) no chest
 
 Go left then left again, glide off to far trees, launch forwards with flameblade and hammer
 Aim slightly left of the two parallel wind gusts at other gust left of those, drop down
 Bomb arrow (or bomb if raining) the rock, ride gust right, bomb arrow right (or climb wall and bomb from above and behind with gust
 Left, do the same, forwards and get gusted to platform, enter shrine
 
-64 SHAI YOTA: (blessing) chest
+63 SHAI YOTA: (blessing) chest
 
 # Check Blood moon!!!
 
-Warp to Ta'loh Naeg and begin the worst segment in the run
+Warp to Ta'loh Naeg and finally do the shrine
+
+64 TA'LOH NAEG: Right chest, use wood axe in fights and be bored until tutorials finish, get chest
 
 Run to the fairy fountain and get fairies and free the fairy from its curse of poverty
 Photo the fountain, run back
